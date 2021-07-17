@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace build_webapp_blazor
+namespace first_webapp_blazor
 {
     public class Program
     {
